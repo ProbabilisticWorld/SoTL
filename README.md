@@ -11,16 +11,16 @@
 * **Revised** after getting preliminary data: _**(add something here)**_
 
 ## Longer story
-- [] Make this something like a narrative of the process
-- [] Discuss original though process, literature review, etc.
-- [] Explicitly state what "kind" of question this is (q.v. Hutchings' taxonomy of quesitions)
-- [] Discuss how the scope/specific question changed after preliminary data collection in winter 2020
+- [ ] Make this something like a narrative of the process
+- [ ] Discuss original though process, literature review, etc.
+- [ ] Explicitly state what "kind" of question this is (q.v. Hutchings' taxonomy of quesitions)
+- [ ] Discuss how the scope/specific question changed after preliminary data collection in winter 2020
 
 ## Data(?)
-- [] Include review of the data that I took; may belong in the narrative above
+- [ ] Include review of the data that I took; may belong in the narrative above
 
 ## Current
-- [] Overview of where the project is at the end of Spring 2020
+- [ ] Overview of where the project is at the end of Spring 2020
 
 <!---Copyright and license--->
 # Copyright and license info
@@ -30,9 +30,9 @@
 Except as noted, all contents are copyright 2019 Dan Roth, and are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 # Website/organization tasks
-- [] Consider how topics should be organized
-- [] Include references
-- [] :octocat:
+- [ ] Consider how topics should be organized
+- [ ] Include references
+- [ ] :octocat:
 
 <!---Links--->
 <!---Copyright image--->
