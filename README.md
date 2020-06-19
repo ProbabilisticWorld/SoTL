@@ -82,8 +82,7 @@ Presented as a TODO, since this is still a work in progress.
 ---
 # Copyright and license info
 
-![CC-BY-NC-SA icon](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
-<!-- (https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png) -->
+![CC-BY-NC-SA icon](by-nc-sa_88x31.png)
 
 Except as noted, all contents are copyright 2019 Dan Roth, and are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
