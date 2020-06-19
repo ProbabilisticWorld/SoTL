@@ -99,8 +99,8 @@ Except as noted, all contents are copyright 2019 Dan Roth, and are licensed unde
 
 <sup id="f5">5</sup> D. Bruff, in *Doing the scholarship of teaching and learning in mathematics*, edited by J. Dewar and C. Bennett (Chap. 13, Mathematical Association of America, Washington, DC). [↩](#a5)
 
-<sup id="f6">6</sup>More info about CCN: https://www.compclassnotes.com/about [↩](#a6)
+<sup id="f6">6</sup>More info about CCN: <https://www.compclassnotes.com/about> [↩](#a6)
 
-<sup id="f7">7</sup>https://www.wolfram.com/mathematica [↩](#a7)
+<sup id="f7">7</sup><https://www.wolfram.com/mathematica> [↩](#a7)
 
 <sup id="f8">8</sup>D. T. Seaton, G. Kortemeyer, Y. Bergner, S. Rayyan, and D. E. Pritchard, American Journal of Physics, **82**, 1186 (2014). <https://doi.org/10.1119/1.4901189> [↩](#a8)
