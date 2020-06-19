@@ -1,8 +1,0 @@
-'q3-1Dcoll-ex.csv',
-'q3-2Dcoll-defn.csv',
-'q3-2Dcoll-ex.csv',
-'q3-ball-pend-deriv.csv',
-'q3-p-cons-ex1.csv',
-'q3-p-cons-ex2.csv',
-'q3-p-defn.csv',
-'q3-p-symb-ex.csv'
