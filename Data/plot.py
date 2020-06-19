@@ -32,7 +32,7 @@ def makeplots(input, nquiz, name):
 
     # Configure and label
     ax.set_title('Quiz '+str(nquiz)+': '+name)
-    ax.set_xlabel('Unique page views')
+    ax.set_xlabel('Total module views')
     ax.set_ylabel('Quiz '+str(nquiz)+' grade')
     ax.set_xlim(left=-1) # shifted slightly negative to see ticks at x = 0
     ax.set_ylim(-0.1,1.1) # shifted slightly negative to see ticks at y = 0 and y = 1
@@ -40,6 +40,7 @@ def makeplots(input, nquiz, name):
     # View/save
     #plt.show()
     plt.savefig('q'+str(nquiz)+'-plot.pdf')
+    plt.savefig('q'+str(nquiz)+'-plot.png')
 
 if __name__ == '__main__':
     makeplots('q1-scatter.csv',1,'Measuring motion')
