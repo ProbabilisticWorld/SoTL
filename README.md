@@ -82,20 +82,21 @@ Presented as a TODO, since this is still a work in progress.
 ---
 # Copyright and license info
 
-![CC-BY-NC-SA icon](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+![CC-BY-NC-SA icon](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
+<!-- (https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png) -->
 
 Except as noted, all contents are copyright 2019 Dan Roth, and are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 <!--- References & notes --->
 ---
 # References
-<sup id="f1">1</sup> P. Hutchings, *Opening Lines: Approaching the Scholarship of Teaching and Learning* (Carnegie Publications, The Carnegie Foundation for the Advancement of Teaching, Menlo Park, CA, 2000), p. 1.  [↩](#a1)
+<sup id="f1">1</sup> P. Hutchings, *Opening Lines: Approaching the Scholarship of Teaching and Learning* (Carnegie Publications, The Carnegie Foundation for the Advancement of Teaching, Menlo Park, CA, 2000), p. 1. [↩](#a1)
 
-<sup id="f2">2</sup>N. Podolefsky, and N. Finkelstein, The Physics Teacher, **44**, 338 (2009).  https://doi.org/10.1119/1.2336132 [↩](#a2)
+<sup id="f2">2</sup>N. Podolefsky, and N. Finkelstein, The Physics Teacher, **44**, 338 (2009). <https://doi.org/10.1119/1.2336132> [↩](#a2)
 
-<sup id="f3">3</sup>C. E. Heiner, A. I. Banet, and C. Wieman, American Journal of Physics, **82**, 989 (2014). https://doi.org/10.1119/1.4895008 [↩](#a3)
+<sup id="f3">3</sup>C. E. Heiner, A. I. Banet, and C. Wieman, American Journal of Physics, **82**, 989 (2014). <https://doi.org/10.1119/1.4895008> [↩](#a3)
 
-<sup id="f4">4</sup>A. Koch, Science Education, **85**, 758 (2001). https://doi.org/10.1002/sce.1037 [↩](#a4)
+<sup id="f4">4</sup>A. Koch, Science Education, **85**, 758 (2001). <https://doi.org/10.1002/sce.1037> [↩](#a4)
 
 <sup id="f5">5</sup> D. Bruff, in *Doing the scholarship of teaching and learning in mathematics*, edited by J. Dewar and C. Bennett (Chap. 13, Mathematical Association of America, Washington, DC). [↩](#a5)
 
@@ -103,4 +104,4 @@ Except as noted, all contents are copyright 2019 Dan Roth, and are licensed unde
 
 <sup id="f7">7</sup>https://www.wolfram.com/mathematica [↩](#a7)
 
-<sup id="f8">8</sup>D. T. Seaton, G. Kortemeyer, Y. Bergner, S. Rayyan, and D. E. Pritchard, American Journal of Physics, **82**, 1186 (2014). https://doi.org/10.1119/1.4901189 [↩](#a8)
+<sup id="f8">8</sup>D. T. Seaton, G. Kortemeyer, Y. Bergner, S. Rayyan, and D. E. Pritchard, American Journal of Physics, **82**, 1186 (2014). <https://doi.org/10.1119/1.4901189> [↩](#a8)
