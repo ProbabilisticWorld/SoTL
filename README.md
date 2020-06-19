@@ -47,10 +47,10 @@ For each module, I pull a report that gives a student's name, and a timestamp of
 
 I made some observations while I was preparing the data:
 1. The *vast majority* of hits for any given module came **after** the relevant quiz.
-	- For example, one file went from 153 rows of data to 3 when I removed hits from after the quiz date. <!--- No wonder people did poorly on the quizzes! *What the hell did they expect!?* Also, the energy quiz (from which all the above examples come) had a remarkably low average. I allowed them to do corrections (which I saw no evidence of helping, given their exam grades) to make up for this. I should've told them to just go fuck themselves! Why should I do more work because they can't be assed to *read the fucking book* or *work on any fucking examples!?* --->
-
+	- For example, one file went from 153 rows of data to 3 when I removed hits from after the quiz date.
 1. There were few hits from the quiz day itself; this indicates students not referencing the book while taking the quiz. (Quizzes were open-book and open-notes, though there was a 60 minute time limit.) <!-- (Hopefully they were using their notes instead.) -->
 1. Quiz 2 was very difficult, and I saw the number of access times dramatically increase between quiz 2 and quiz 3.
+<!--- No wonder people did poorly on the quizzes! *What the hell did they expect!?* Also, the energy quiz (from which all the above examples come) had a remarkably low average. I allowed them to do corrections (which I saw no evidence of helping, given their exam grades) to make up for this. I should've told them to just go fuck themselves! Why should I do more work because they can't be assed to *read the fucking book* or *work on any fucking examples!?* --->
 
 For each quiz, I counted the total number of hits on the corresponding modules. At this point I have analyzed the data for the first three quizzes:
 
