@@ -73,7 +73,7 @@ Presented as a TODO, since this is still a work in progress.
 
 ---
 # Aside: some ponderings on textbooks
-- Is it really necessary to train them this way?
+- Is it really necessary to train students to use a textbook?
 - Why *should* they use the book if there is so much information available online?
 - There is *too much* information available online, and much of it is wrong or irrelevant. It can take valuable "processing power" for a student to sift through and find what is helpful; this energy could be more efficiently spent with the focus of a textbook that was selected for a specific course.
 - I also have the simple conviction that there is *inherent value* to learning how to use a textbook as a resource!
@@ -82,7 +82,7 @@ Presented as a TODO, since this is still a work in progress.
 ---
 # Copyright and license info
 
-![CC-BY-NC-SA icon][icon]
+![CC-BY-NC-SA icon](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 Except as noted, all contents are copyright 2019 Dan Roth, and are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -104,7 +104,3 @@ Except as noted, all contents are copyright 2019 Dan Roth, and are licensed unde
 <sup id="f7">7</sup>https://www.wolfram.com/mathematica [↩](#a7)
 
 <sup id="f8">8</sup>D. T. Seaton, G. Kortemeyer, Y. Bergner, S. Rayyan, and D. E. Pritchard, American Journal of Physics, **82**, 1186 (2014). https://doi.org/10.1119/1.4901189 [↩](#a8)
-
-<!---Links--->
-<!---Copyright image--->
-[icon]: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
