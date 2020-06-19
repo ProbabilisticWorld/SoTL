@@ -12,7 +12,7 @@ The paper *Training in Metacognition and Comprehension of Physics Texts* by Koch
 
 In *Conceptual or computational? Making sense of reading questions in an inverted statistics course*, Bruff<sup id="a5">[5](#f5)</sup> addresses a similar topic as what I'm looking into. Bruff investigated what students "are able to learn by reading their textbooks before class" as part of a study into what kinds of pre-class readings, assignments, and questions help the students learn more from their textbooks.
 
-On the one hand, it is exciting to see a dearth of material published on this topic---it means the field is relatively open for exploration!---but on the other hand, it means there's little for me to go off of as a dive into SoTL.
+On the one hand, it is exciting to see a dearth of material published on this topic&mdash;it means the field is relatively open for exploration!&mdash;but on the other hand, it means there's little for me to go off of as a dive into SoTL.
 
 # Original line of inquiry: worked examples
 I started out the project by designing a study to investigate how students use worked example problems to help them learn. I ran a pilot student where I presented a student with a short handout including information on some new material, a worked example, and a similar problem for the student to solve. I had them do this in the physics lab, and I was not there to answer questions or otherwise make them feel monitored. They did not have access to the internet or other physics textbooks. I collected the notes the student took on the handout as well as their work on the problem.
@@ -47,9 +47,8 @@ For each module, I pull a report that gives a student's name, and a timestamp of
 
 I made some observations while I was preparing the data:
 1. The *vast majority* of hits for any given module came **after** the relevant quiz.
-	- For example, one file went from 153 rows of data to 3 when I removed hits from after the quiz date.
-<!-- No wonder people did poorly on the quizzes! *What the hell did they expect!?* -->
-<!-- Also, the energy quiz (from which all the above examples come) had a remarkably low average. I allowed them to do corrections---which I saw no evidence of helping, given their exam grades---to make up for this. I should've told them to just go fuck themselves! Why should I do more work because they can't be assed to *read the fucking book* or *work on any fucking examples!?* -->
+	- For example, one file went from 153 rows of data to 3 when I removed hits from after the quiz date. <!-- No wonder people did poorly on the quizzes! *What the hell did they expect!?* Also, the energy quiz (from which all the above examples come) had a remarkably low average. I allowed them to do corrections---which I saw no evidence of helping, given their exam grades---to make up for this. I should've told them to just go fuck themselves! Why should I do more work because they can't be assed to *read the fucking book* or *work on any fucking examples!?* -->
+
 1. There were few hits from the quiz day itself; this indicates students not referencing the book while taking the quiz. (Quizzes were open-book and open-notes, though there was a 60 minute time limit.) <!-- (Hopefully they were using their notes instead.) -->
 1. Quiz 2 was very difficult, and I saw the number of access times dramatically increase between quiz 2 and quiz 3.
 
@@ -64,6 +63,7 @@ For each quiz, I counted the total number of hits on the corresponding modules. 
 At a glance, it looks like there is no meaningful correlation between module views and quiz grade. I will need to do some more quantitative statistical analysis to confirm this. It is possible that there's a sort of over/under effect: for example, on Quiz 2 it looks as though there *may* be a differnece between students who viewed the modules fewer than four times as opposed to more than four times.
 
 ## Future work
+Presented as a TODO, since this is still a work in progress.
 - [ ] Finish analyzing the data for the other 3 quizzes
 - [ ] Statistical analysis to determine any sort of real correlation
 - [ ] Look into how results on practice problems correlate (or not!) to quiz scores
