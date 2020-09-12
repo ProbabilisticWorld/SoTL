@@ -46,3 +46,5 @@ if __name__ == '__main__':
     makeplots('q1-scatter.csv',1,'Measuring motion')
     makeplots('q2-scatter.csv',2,'Energy')
     makeplots('q3-scatter.csv',3,'Momentum')
+    makeplots('q4-scatter.csv',4,'Force')
+    makeplots('q5-scatter.csv',5,'Work')

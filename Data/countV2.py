@@ -8,7 +8,6 @@ def hits(input):
 
     input is a csv file. Must be input as 'filename.csv' (including quotes)
     The csv file must be formatted as follows: Two header rows (these get ignored); first column has names, second column has timestamps
-    More details are in README.md
     '''
     # Load text, slice by name and time
     (names,times0) = (np.genfromtxt(input,dtype=str,delimiter=',',skip_header=2,encoding=None,usecols=(0)),
@@ -83,12 +82,12 @@ if __name__ == '__main__':
     print('Commence data analysis')
 
     # q1
-    # list_of_files = ['accel-defn.csv',
-    # 'single-vector-2D.csv',
-    # 'single-vector-polar.csv',
-    # 'vector-addition.csv',
-    # 'vector-subtraction.csv',
-    # 'velocity-defn.csv'] # Quiz 1
+    # list_of_files = ['q1-accel-defn.csv',
+    # 'q1-single-vector-2D.csv',
+    # 'q1-single-vector-polar.csv',
+    # 'q1-vector-addition.csv',
+    # 'q1-vector-subtraction.csv',
+    # 'q1-velocity-defn.csv']
 
     # q2
     # list_of_files = ['q2-E-budget.csv',
@@ -105,14 +104,32 @@ if __name__ == '__main__':
     # 'q2-up-ramp.csv']
 
     # q3
-    list_of_files=['q3-1Dcoll-ex.csv',
-    'q3-2Dcoll-defn.csv',
-    'q3-2Dcoll-ex.csv',
-    'q3-ball-pend-deriv.csv',
-    'q3-p-cons-ex1.csv',
-    'q3-p-cons-ex2.csv',
-    'q3-p-defn.csv',
-    'q3-p-symb-ex.csv']
+    # list_of_files=['q3-1Dcoll-ex.csv',
+    # 'q3-2Dcoll-defn.csv',
+    # 'q3-2Dcoll-ex.csv',
+    # 'q3-ball-pend-deriv.csv',
+    # 'q3-p-cons-ex1.csv',
+    # 'q3-p-cons-ex2.csv',
+    # 'q3-p-defn.csv',
+    # 'q3-p-symb-ex.csv']
+
+    # q4
+    # list_of_files=['q4-3rd-law-ex.csv',
+    # 'q4-elevator-ex.csv',
+    # 'q4-flower-basket-2d-ex.csv',
+    # 'q4-incline-accel-ex.csv',
+    # 'q4-incline-static-ex.csv',
+    # 'q4-potatoes-2d-ex.csv',
+    # 'q4-simple-1d-ex.csv',
+    # 'q4-spring-ex.csv']
+
+    # q5
+    list_of_files=['q5-box-stack-compare.csv',
+    'q5-box-stack-ex.csv',
+    'q5-friction-K-only-ex.csv',
+    'q5-friction-ramp-ex.csv',
+    'q5-spring-quadratic-ex.csv'
+    ]
 
     for i in range(len(list_of_files)):
         print('Analyzing '+list_of_files[i])

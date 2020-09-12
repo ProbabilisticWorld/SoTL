@@ -12,9 +12,9 @@ The paper *Training in Metacognition and Comprehension of Physics Texts* by Koch
 
 In *Conceptual or computational? Making sense of reading questions in an inverted statistics course*, Bruff<sup id="a5">[5](#f5)</sup> addresses a similar topic as what I'm looking into. Bruff investigated what students "are able to learn by reading their textbooks before class" as part of a study into what kinds of pre-class readings, assignments, and questions help the students learn more from their textbooks.
 
-On the one hand, it is exciting to see a dearth of material published on this topic&mdash;it means the field is relatively open for exploration!&mdash;but on the other hand, it means there's little for me to go off of as a dive into SoTL.
+While at times frustrating, in some ways it is exciting to see a dearth of material published on this topic&mdash;it means the field is relatively open for exploration!
 
-# Original line of inquiry: worked examples
+<!-- # Original line of inquiry: worked examples
 I started out the project by designing a study to investigate how students use worked example problems to help them learn. I ran a pilot student where I presented a student with a short handout including information on some new material, a worked example, and a similar problem for the student to solve. I had them do this in the physics lab, and I was not there to answer questions or otherwise make them feel monitored. They did not have access to the internet or other physics textbooks. I collected the notes the student took on the handout as well as their work on the problem.
 
 It looked like the student did effectively use the text and worked example to solve the practice problem: I found that at least one student was able to effectively use printed materials to help solve novel problems. There were a few things that stuck out to me as evidence of the student using the worked example:
@@ -30,16 +30,17 @@ My original plan was to run this pilot study with three to five students. After 
 
 Instead, I really want to see if we can train students to effectively use the textbook even when they are *not* limited in what resources are available. In other words, can we train them to use the textbook as a staring point?
 
-This pilot study and analysis took place during winter quarter of 2020.
+This pilot study and analysis took place during winter quarter of 2020. -->
 
-# Shift in direction: Correlating textbook usage to quiz scores
+<!-- # Shift in direction: Correlating textbook usage to quiz scores -->
+# Correlating textbook usage to quiz scores
 After my pilot study, I decided to change tacks for spring 2020.
 
 For Introduction to Physics (Phys 110), I use an online textbook. I wrote the book myself and published it through Computational Class Notes (CCN),<sup id="a6">[6](#f6)</sup> an ed-tech company specializing in applying the technical computing program Wolfram Mathematica<sup id="a7">[7](#f7)</sup> to generate examples and practice modules. Because of the computational backend, a student can refresh a module to see a new example or practice problem over the same material. A new problem is generated each time, rather than simply cycling through a bank of pre-written problems. Modules are embedded in a web page, often with multiple modules per page.
 
 This provides me with a good source of data: I can pull a report that tells me specifically when each student accessed each module. The modules themselves are pointed and specific, so for each module I can refer to a specific quiz drawing on the material. There is a limitation, however: I only get a time stamp of when the student accessed the module, which does not provide me with information about how long a student was viewing a module, or if they even looked at it at all. The issue of what defines a "meaningful" interaction with an electronic text is addressed by Seaton, et al. in *Analyzing the Impact of Course Structure on Electronic Textbook Use in Blended Introductory Physics Courses.*<sup id="a8">[8](#f8)</sup>
 
-## Preliminary results
+## Results
 For each module, I pull a report that gives a student's name, and a timestamp of when they accessed the module. I applied two criteria to remove data points from analysis:
 
 1. If the access time was after the corresponding quiz, I removed the data point.
@@ -60,23 +61,23 @@ For each quiz, I counted the total number of hits on the corresponding modules. 
 
 ![Quiz 3 grade vs hits plot](Data/q3-plot.png)
 
-At a glance, it looks like there is no meaningful correlation between module views and quiz grade. I will need to do some more quantitative statistical analysis to confirm this. It is possible that there's a sort of over/under effect: for example, on Quiz 2 it looks as though there *may* be a differnece between students who viewed the modules fewer than four times as opposed to more than four times.
+![Quiz 4 grade vs hits plot](Data/q4-plot.png)
+
+![Quiz 5 grade vs hits plot](Data/q5-plot.png)
+
+At a glance, it looks like there is no meaningful correlation between module views and quiz grade. I will need to do some more quantitative statistical analysis to confirm this. <!-- It is possible that there's a sort of over/under effect: for example, on Quiz 2 it looks as though there *may* be a difference between students who viewed the modules fewer than four times as opposed to more than four times. -->
 
 ## Future work
 Presented as a TODO, since this is still a work in progress.
-- [ ] Finish analyzing the data for the other 3 quizzes
+- [x] Analyze quiz grade vs non-graded module hits
+- [ ] Analyze quiz grade vs score on graded modules
 - [ ] Statistical analysis to determine any sort of real correlation
-- [ ] Look into how results on practice problems correlate (or not!) to quiz scores
-	- The practice problems are "graded" in the sense that students submit and answer; I see their score from each time they do a practice problem in addition to the timestamp of when they did it
 - [ ] Look into exam scores?
 	- [ ] Dig deeper into how reviewing after the quiz affects their grades?
 
 ---
 # Aside: some ponderings on textbooks
-- Is it really necessary to train students to use a textbook?
-- Why *should* they use the book if there is so much information available online?
-- There is *too much* information available online, and much of it is wrong or irrelevant. It can take valuable "processing power" for a student to sift through and find what is helpful; this energy could be more efficiently spent with the focus of a textbook that was selected for a specific course.
-- I also have the simple conviction that there is *inherent value* to learning how to use a textbook as a resource!
+One may ask if it is really necessary to train students to use a textbook, or ask why they even *should* use a textbook if there is so much information available online? These are valid questions, but I believe it is valuable for students to learn how to use textbooks. There is *too much* information available online, and much of it is wrong or irrelevant. It can take valuable "processing power" for a student to sift through and find what is helpful; this energy could be more efficiently spent with the focus of a textbook that was selected for a specific course. I also have the simple conviction that there is *inherent value* to learning how to use a textbook as a resource!
 
 <!---Copyright and license--->
 ---
