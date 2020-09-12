@@ -34,7 +34,7 @@ This pilot study and analysis took place during winter quarter of 2020. -->
 
 <!-- # Shift in direction: Correlating textbook usage to quiz scores -->
 # Correlating textbook usage to quiz scores
-After my pilot study, I decided to change tacks for spring 2020.
+<!-- After my pilot study, I decided to change tacks for spring 2020. -->
 
 For Introduction to Physics (Phys 110), I use an online textbook. I wrote the book myself and published it through Computational Class Notes (CCN),<sup id="a6">[6](#f6)</sup> an ed-tech company specializing in applying the technical computing program Wolfram Mathematica<sup id="a7">[7](#f7)</sup> to generate examples and practice modules. Because of the computational backend, a student can refresh a module to see a new example or practice problem over the same material. A new problem is generated each time, rather than simply cycling through a bank of pre-written problems. Modules are embedded in a web page, often with multiple modules per page.
 
