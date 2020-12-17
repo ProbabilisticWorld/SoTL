@@ -55,15 +55,15 @@ I made some observations while I was preparing the data:
 
 For each quiz, I counted the total number of hits on the corresponding modules. At this point I have analyzed the data for the first three quizzes:
 
-![Quiz 1 grade vs hits plot](Data/q1-plot.png)
+![Quiz 1 grade vs hits plot](sp20/q1-plot.png)
 
-![Quiz 2 grade vs hits plot](Data/q2-plot.png)
+![Quiz 2 grade vs hits plot](sp20/q2-plot.png)
 
-![Quiz 3 grade vs hits plot](Data/q3-plot.png)
+![Quiz 3 grade vs hits plot](sp20/q3-plot.png)
 
-![Quiz 4 grade vs hits plot](Data/q4-plot.png)
+![Quiz 4 grade vs hits plot](sp20/q4-plot.png)
 
-![Quiz 5 grade vs hits plot](Data/q5-plot.png)
+![Quiz 5 grade vs hits plot](sp20/q5-plot.png)
 
 At a glance, it looks like there is no meaningful correlation between module views and quiz grade. I will need to do some more quantitative statistical analysis to confirm this. <!-- It is possible that there's a sort of over/under effect: for example, on Quiz 2 it looks as though there *may* be a difference between students who viewed the modules fewer than four times as opposed to more than four times. -->
 
