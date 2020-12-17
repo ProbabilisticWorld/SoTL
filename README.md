@@ -40,8 +40,8 @@ For Introduction to Physics (Phys 110), I use an online textbook. I wrote the bo
 
 This provides me with a good source of data: I can pull a report that tells me specifically when each student accessed each module. The modules themselves are pointed and specific, so for each module I can refer to a specific quiz drawing on the material. There is a limitation, however: I only get a time stamp of when the student accessed the module, which does not provide me with information about how long a student was viewing a module, or if they even looked at it at all. The issue of what defines a "meaningful" interaction with an electronic text is addressed by Seaton, et al. in *Analyzing the Impact of Course Structure on Electronic Textbook Use in Blended Introductory Physics Courses.*<sup id="a8">[8](#f8)</sup>
 
-## Results
-For each module, I pull a report that gives a student's name, and a timestamp of when they accessed the module. I applied two criteria to remove data points from analysis:
+## Results: non-graded modules
+Non-graded modules are things like explanatory text, derivations, and worked example problems. For each module, I pull a report that gives a student's name, and a timestamp of when they accessed the module. I applied two criteria to remove data points from analysis:
 
 1. If the access time was after the corresponding quiz, I removed the data point.
 1. If two access times were within 60 seconds of each other, I only counted it as one "hit."
@@ -66,6 +66,9 @@ For each quiz, I counted the total number of hits on the corresponding modules. 
 ![Quiz 5 grade vs hits plot](Data/q5-plot.png)
 
 At a glance, it looks like there is no meaningful correlation between module views and quiz grade. I will need to do some more quantitative statistical analysis to confirm this. <!-- It is possible that there's a sort of over/under effect: for example, on Quiz 2 it looks as though there *may* be a difference between students who viewed the modules fewer than four times as opposed to more than four times. -->
+
+## Results: graded practice modules
+Graded practice problems are also incorporated into the online textbook. For the quarter this data comes from, these practice problems were not explicitly required (i.e., I did not include the practice problems in their final grade). For each module, I pull a report that gives the name of the student, a timestamp for each time they submitted an answer, and their score on the problem. I removed data points from after the corresponding quiz, and compare each student's quiz grade to their average score for all the relevant practice problems.
 
 ## Future work
 Presented as a TODO, since this is still a work in progress.
